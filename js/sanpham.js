@@ -42,3 +42,4 @@ des.push(["","h17.jpg","HOA CHUÔNG 35X1M25"]);
 des.push(["","h18.jpg","HOA CHUÔNG 26X80"]);
 des.push(["","h19.jpg","GẠCH BÔNG GIÓ TRÒN NHỎ"]);
 des.push(["","h20.jpg","GẠCH BÔNG GIÓ BÔNG MAI"]);
+des.push(["","h21.jpg","CON BỌ DÀI 20X65"]);
